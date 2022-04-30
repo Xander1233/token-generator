@@ -1,5 +1,5 @@
 {
-  "name": "securetokengeneration",
+  "name": "tokengenerator",
   "version": "1.0.0",
   "description": "",
   "main": "dist/test.js",
