@@ -1,0 +1,1 @@
+export type Events = 'close' | 'destination' | 'hop' | 'pid';
